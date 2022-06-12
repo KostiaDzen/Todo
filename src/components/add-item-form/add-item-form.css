@@ -1,0 +1,11 @@
+.add-item-forms {
+    margin-top: 10px;
+}
+
+.add-item-forms input {
+    margin-right: 5px;
+}
+
+.btn.left {
+    float:left;
+}
